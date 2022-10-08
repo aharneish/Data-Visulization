@@ -4,3 +4,6 @@
 * pie chart
 * boxplot
 * histogram
+* line plot
+* subplots
+* scatter plots
